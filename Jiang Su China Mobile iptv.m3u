@@ -3,6 +3,8 @@
 http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://ott.mobaibox.com/PLTV/4/224/3221228844/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://ott.mobaibox.com/PLTV/4/224/3221228886/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://ott.mobaibox.com/PLTV/4/224/3221227546/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV4
