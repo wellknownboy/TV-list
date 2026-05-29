@@ -52,11 +52,11 @@ http://ott.mobaibox.com/PLTV/4/224/3221228924/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",CCTV16
 http://ott.mobaibox.com/PLTV/4/224/3221228959/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",北京卫视4K
-http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8   
-#EXTINF:-1 group-title="高清臻享频道",江苏卫视4K
-http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8  
+http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8  
 #EXTINF:-1 group-title="高清臻享频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
+#EXTINF:-1 group-title="高清臻享频道",江苏卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8  
 #EXTINF:-1 group-title="高清臻享频道",广东卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",深圳卫视4K
