@@ -83,8 +83,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228936/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",真4K
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="高清臻享频道",移动示范频道
-http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227552/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -454,6 +452,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228129/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 group-title="高清臻享频道",4KUHD
 http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+#EXTINF:-1 group-title="高清臻享频道",移动示范频道
+http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 #EXTINF:-1 group-title="综艺频道",keep健身
 http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 #EXTINF:-1 group-title="综艺频道",自然风景
